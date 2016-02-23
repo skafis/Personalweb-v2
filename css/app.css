@@ -22,3 +22,11 @@
     border-radius: .25em;
     background-color: rgba(234,242, 227, 0.9);
 }
+
+.verticle-nav a{
+    display: block;
+    padding: 1em;
+    color: #3a2c41;
+    font-weight: bold;
+    border-bottom: 1px solid rgba(58, 44,  65, 0.1);
+}
