@@ -30,3 +30,16 @@
     font-weight: bold;
     border-bottom: 1px solid rgba(58, 44,  65, 0.1);
 }
+
+.verticle-nav a.active{
+    color: #c0a672;
+}
+
+.verticle-nav.open{
+    -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+    transform: scale(1);
+    -webkit-overflow-scrolling:touch;
+}
