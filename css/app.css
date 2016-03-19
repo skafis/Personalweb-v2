@@ -43,3 +43,8 @@
     transform: scale(1);
     -webkit-overflow-scrolling:touch;
 }
+
+.hero {
+    text-align: center;
+    font-size: 40px;
+}
